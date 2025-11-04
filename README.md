@@ -1,7 +1,7 @@
 Hello Masterminds, I Am Babajide EmmanueL and God is with me.
 
 
-<img src="https://img.shields.io/badge/Linkedin-com?style=for-the-badge&logo=Libera.Chat&logoColor=blue&logoSize=auto&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F" />
+<img src="https://img.shields.io/badge/Linkedin-com?style=for-the-badge&logo=Libera.Chat&logoColor=blue&logoSize=auto&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F">
 
 
 I'm a cybersecurity analyst passionate with solving cyber related crimes feels good yeah😉.
